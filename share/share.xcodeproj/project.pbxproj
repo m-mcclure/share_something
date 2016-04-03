@@ -15,6 +15,7 @@
 		294A00B21CB1A0A0009D8D06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 294A00B01CB1A0A0009D8D06 /* LaunchScreen.storyboard */; };
 		294A00BD1CB1A0A0009D8D06 /* shareTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 294A00BC1CB1A0A0009D8D06 /* shareTests.m */; };
 		294A00C81CB1A0A0009D8D06 /* shareUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 294A00C71CB1A0A0009D8D06 /* shareUITests.m */; };
+		294A00D61CB1A48D009D8D06 /* alice.png in Resources */ = {isa = PBXBuildFile; fileRef = 294A00D51CB1A48D009D8D06 /* alice.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		294A00C31CB1A0A0009D8D06 /* shareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = shareUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		294A00C71CB1A0A0009D8D06 /* shareUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = shareUITests.m; sourceTree = "<group>"; };
 		294A00C91CB1A0A0009D8D06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		294A00D51CB1A48D009D8D06 /* alice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alice.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				294A00A91CB1A0A0009D8D06 /* ViewController.m */,
 				294A00AB1CB1A0A0009D8D06 /* Main.storyboard */,
 				294A00AE1CB1A0A0009D8D06 /* Assets.xcassets */,
+				294A00D51CB1A48D009D8D06 /* alice.png */,
 				294A00B01CB1A0A0009D8D06 /* LaunchScreen.storyboard */,
 				294A00B31CB1A0A0009D8D06 /* Info.plist */,
 				294A00A21CB1A0A0009D8D06 /* Supporting Files */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				294A00D61CB1A48D009D8D06 /* alice.png in Resources */,
 				294A00B21CB1A0A0009D8D06 /* LaunchScreen.storyboard in Resources */,
 				294A00AF1CB1A0A0009D8D06 /* Assets.xcassets in Resources */,
 				294A00AD1CB1A0A0009D8D06 /* Main.storyboard in Resources */,
